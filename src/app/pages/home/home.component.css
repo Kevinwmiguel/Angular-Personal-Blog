@@ -1,5 +1,10 @@
-*{
-  width: 100%;
-  height: 100%;
-  background-color: black;
+.container__articles{
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+
+}
+
+.articles_main{
+  margin-right: 4em;
 }
