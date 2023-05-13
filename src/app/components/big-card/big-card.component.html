@@ -6,11 +6,11 @@
     </figure>
   </div>
   <div class="big-card-title">
-    <a href=""><h2>{{CardTitle}}</h2></a>
+    <a [routerLink]="['content', Id]"><h2>{{CardTitle}}</h2></a>
     <!--Porque Aprender Lógica de Programação?-->
   </div>
   <div class="big-card-text">
-    <p>
+    <a [routerLink]="['content', Id]"><p>
       {{CardDescription}}
       <!--Aprender lógica de programação é essencial
       para quem deseja se tornar um programador
@@ -22,6 +22,7 @@
       lógica de outros sistemas, como os que controlam dispositivos
       eletrônicos ou realizam cálculos complexos.-->
     </p>
+  </a>
   </div>
 
 </div>
