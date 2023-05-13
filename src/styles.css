@@ -1,9 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
-*{
+body{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #000;
+  background-color: #1f1f1f;
+}
+
+.menu-title-container{
+  position: absolute;
+  margin-top: -250px;
+  margin-left: 55px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 a{

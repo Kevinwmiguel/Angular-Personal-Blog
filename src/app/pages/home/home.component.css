@@ -8,3 +8,11 @@
 .articles_main{
   margin-right: 4em;
 }
+
+header{
+  border: 2px solid white;
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+  padding: 10px;
+}
