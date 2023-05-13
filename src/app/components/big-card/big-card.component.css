@@ -1,11 +1,11 @@
 .container__big-card{
-
   width: 500px;
   height: 600px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
+
 }
 
 figcaption {
@@ -13,13 +13,15 @@ figcaption {
 }
 
 .big-card-img figure img{
-  width: 100%;
+  width: 450px;
+  height: 250px;
 
 }
 
 .big-card-text{
   color: #dedede;
   margin: 15px 0px 15px 15px;
+
 }
 
 .big-card-title{

@@ -2,3 +2,8 @@
   width: 100%;
   height: 300px;
 }
+
+hr{
+  margin: 0;
+  padding: 0;
+}
