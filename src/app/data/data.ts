@@ -19,6 +19,11 @@ export const pageData = [
   "title": "Qual seu sonho?",
   "description": "Existem diversas carreiras e especializações possíveis para quem deseja seguir na área de programação. Algumas opções incluem: Desenvolvedor de software: É um profissional que desenvolve programas, aplicativos e sistemas para atender às necessidades de empresas e usuários. O desenvolvedor de software pode trabalhar com várias linguagens de programação e tecnologias diferentes. Engenheiro de software: É um profissional que trabalha no planejamento, design e arquitetura de sistemas de software complexos. O engenheiro de software pode liderar equipes de desenvolvedores e garantir a qualidade e eficiência do código produzido. Desenvolvedor web: É um profissional que trabalha com o desenvolvimento de sites, aplicativos e sistemas para a internet. O desenvolvedor web pode trabalhar com várias linguagens de programação, como HTML, CSS, JavaScript, PHP, Python, entre outras. Cientista de dados: É um profissional que utiliza técnicas de programação e análise de dados para extrair insights e informações relevantes de grandes conjuntos de dados. O cientista de dados pode trabalhar em empresas de diversos setores, como finanças, saúde, marketing, entre outros. Especialista em segurança da informação: É um profissional que trabalha para garantir a segurança de sistemas de software e dados sensíveis. O especialista em segurança da informação pode trabalhar em empresas de tecnologia, bancos, governos e outras organizações que precisam proteger seus dados. Arquiteto de soluções: É um profissional que projeta soluções de tecnologia para atender às necessidades de negócios e empresas. O arquiteto de soluções pode trabalhar com várias tecnologias e linguagens de programação, além de liderar equipes de desenvolvimento. Essas são apenas algumas das opções de carreira possíveis na área de programação. É importante escolher uma área que você se identifique e goste de trabalhar, além de buscar constantemente aprimorar seus conhecimentos e habilidades para se manter competitivo no mercado.",
   "photoCover": "../assets/img/Carreira.jpg"
+  },
+  {"id": "5",
+  "title": "Pensamentos organizados?",
+  "description": "é importante pensar direito para aprender a fazer um paragrafo",
+  "photoCover": "../assets/img/ldpc.webp"
   }
 
 ];
